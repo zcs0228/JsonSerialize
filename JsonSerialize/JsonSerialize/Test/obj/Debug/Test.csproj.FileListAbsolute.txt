@@ -1,0 +1,8 @@
+E:\类库\JsonSerialize\JsonSerialize\Test\bin\Debug\Test.exe.config
+E:\类库\JsonSerialize\JsonSerialize\Test\bin\Debug\Test.exe
+E:\类库\JsonSerialize\JsonSerialize\Test\bin\Debug\Test.pdb
+E:\类库\JsonSerialize\JsonSerialize\Test\bin\Debug\JsonSerialize.dll
+E:\类库\JsonSerialize\JsonSerialize\Test\bin\Debug\JsonSerialize.pdb
+E:\类库\JsonSerialize\JsonSerialize\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\类库\JsonSerialize\JsonSerialize\Test\obj\Debug\Test.exe
+E:\类库\JsonSerialize\JsonSerialize\Test\obj\Debug\Test.pdb
